@@ -1,0 +1,33 @@
+# --- Secrets & local config ---
+secrets.h
+*.local
+wifi_credentials.h
+
+# --- Private working docs (kept local for now) ---
+CLAUDE.md
+PROJECT.md
+
+# --- Arduino / arduino-cli build output ---
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.d
+*.o
+*.a
+.build/
+/tmp/
+
+# --- Host-side test builds ---
+test/*.out
+test/a.out
+*.exe
+
+# --- Editor / OS cruft ---
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
