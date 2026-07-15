@@ -2,6 +2,8 @@
 
 A self-powered hardware bridge that drives legacy **Interspace Industries** numeric displays from the modern **Ontime** browser-based stage timer — and supplies the display's own 12V from a dedicated DC input.
 
+> **🚧 Work in progress — untested and unbuilt.** This is an active, early-stage project. The hardware has **not** yet been built and the firmware has **not** yet been tested on real hardware. Everything here — the design, BOM, wiring and code — should be treated as a working draft that may change. This repo will be updated as the build and testing progress. Use at your own risk; nothing here is proven yet.
+
 > **Attribution.** This is a personal side project — a fork of and successor to [henny19 / Ontime-interspace-Display-Bridge](https://github.com/henny19/Ontime-interspace-Display-Bridge) (© technicaleventservices.com, MIT). All original credit stays with them; this repo exists only because their v1 work made it possible. It's a variant built for one specific rig, published separately rather than as a pull request because the hardware changes would break every existing v1 build — **not** a replacement for, or a claim over, the original.
 
 ## **📖 Overview**
