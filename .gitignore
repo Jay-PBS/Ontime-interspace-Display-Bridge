@@ -6,6 +6,7 @@ wifi_credentials.h
 # --- Private working docs (kept local for now) ---
 CLAUDE.md
 PROJECT.md
+HYPOTHETICAL_BIG_RIG.md
 
 # --- Arduino / arduino-cli build output ---
 build/
